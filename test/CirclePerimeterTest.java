@@ -2,7 +2,7 @@ import org.junit.Test;
 import static org.junit.Assert.assertEquals;
 
 public class CirclePerimeterTest {
-    private static final double PRECISION = 0.00001;
+    private static final double PRECISION = 0.0001;
 
     @Test
     public void evaluatesExpression() {
